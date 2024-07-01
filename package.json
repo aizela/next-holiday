@@ -1,11 +1,14 @@
 {
   "name": "next-holiday",
+  "repository": {
+    "url": "https://github.com/aizela/next-holiday"
+  },
   "displayName": "next-holiday",
   "description": "显示距离下一个假期还有多久",
   "publisher": "Rorschach",
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "*"
   },
   "categories": [
     "Other"
