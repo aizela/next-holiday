@@ -6,7 +6,7 @@
   "displayName": "next-holiday",
   "description": "显示距离下一个假期还有多久",
   "publisher": "Rorschach",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "*"
   },
