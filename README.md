@@ -3,7 +3,7 @@
 ## 使用方式
 vscode扩展商店搜索next-holiday,安装即可
 ## 数据来源
-目前直接使用了json文件，[CDN地址](https://cdn.jsdelivr.net/npm/chinese-days/dist/chinese-days.json)
+节假日数据运行时从 CDN 获取：[https://cdn.jsdelivr.net/npm/chinese-days/dist/chinese-days.json](https://cdn.jsdelivr.net/npm/chinese-days/dist/chinese-days.json)
 
 ## 灵感来源
 https://github.com/vsme/chinese-days
